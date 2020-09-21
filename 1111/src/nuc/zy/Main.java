@@ -7,7 +7,7 @@ public class Main {
 
 	
 	//¶þÉµÊÇ¸ö´ô¹Ï
-//12332112345
+//123321
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
