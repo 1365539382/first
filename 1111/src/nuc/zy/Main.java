@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class Main {
 
 	
-	//¶şÉµÊÇ¸ö´ô¹Ï
+	//Â¶Ã¾Ã‰ÂµÃŠÃ‡Â¸Ã¶Â´Ã´Â¹Ã
+//12332112345
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
